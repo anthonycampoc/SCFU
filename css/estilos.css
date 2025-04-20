@@ -1,0 +1,12 @@
+#titulo{
+    color: black;
+}
+
+#ocultar{
+    display: none;
+}
+
+#botonOculto{
+    background-color: green;
+    color: white;
+}
