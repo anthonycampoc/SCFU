@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     let boton = document.querySelector("#boton");
 
     boton.addEventListener("click", ()=>{
-        parrafo.innerHTML = "Hola Mundo!";
+        parrafo.innerHTML = "Hola!";
     })
 
    //CODIGO CAMBIAR COLOR
